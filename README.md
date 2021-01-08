@@ -1,2 +1,2 @@
-# the_self_taught_programmer_udemy
-# the_self_taught_programmer_udemy
+# The_Self_Taught_Programmer_Udemy
+`Learning how to Program with Python by Cory Althoff`
