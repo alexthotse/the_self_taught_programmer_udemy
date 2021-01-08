@@ -14,4 +14,4 @@
 `Create a Linked List`
 `Search a Linked List`
 
-`Videos in total: {13}
+`Videos in total: {13}`
