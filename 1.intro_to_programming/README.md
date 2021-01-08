@@ -1,4 +1,4 @@
-# Videos in module
+# Videos in the module
 
 `Welcome`
 `Inspiration`
