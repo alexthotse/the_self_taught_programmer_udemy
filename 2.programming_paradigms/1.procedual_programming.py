@@ -64,7 +64,7 @@ authors = []
 def collect_authors():
     answer = None
     while answer != "q":
-            answer = input("Best?: ")
+            answer = input("Enter 'q' to Quit\nBest?: ")
             authors.append(answer)
 
 print(authors)
